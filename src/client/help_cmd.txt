@@ -1,0 +1,19 @@
+
+Available commands:
+    /help                                                       Display this help
+    /login ["username"]                                         Login to the server
+    /logout                                                     Logout from the server
+    /users                                                      Display the list of users
+    /user ["user_uuid"]                                         Display the information of the user
+    /send ["user_uuid"] ["message_body"]                        Send a message to the user
+    /messages ["user_uuid"]                                     Display the list of messages
+    /subscribe ["team_uuid"]                                    Subscribe to the event of a team
+    /subscribed ["team_uuid"]                                   Display the list of subscribed teams
+    /unsubscribe ["team_uuid"]                                  Unsubscribe to the event of a team
+    /use ?["team_uuid"] ?["channel_uuid"] ?["thread_uuid"]      Use the team
+    /create ["team_name"] ["team_description"]                  Create new team
+    /create ["channel_name"] ["channel_description"]            Create new channel
+    /create ["thread_title"] ["thread_message"]                 Create new thread
+    /create ["comment_body"]                                    Create new comment
+    /list                                                       Display the list of actual use
+    /info                                                       Display the information of the server

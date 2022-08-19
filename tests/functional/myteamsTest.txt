@@ -1,0 +1,20 @@
+/login "test"
+/users
+/create "test" "test"
+/list
+/info
+/create "test2" "test2"
+/list
+/info
+/create "test3" "test3"
+/list
+/info
+/create "test4" "test4"
+/list
+/info
+/create "test5" "test5"
+/list
+/info
+/create "test6" "test6"
+/list
+/info
