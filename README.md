@@ -1,2 +1,2 @@
-# indiestudio
-Indiestudio second year project at Epitech
+# myteams
+Myteams second year project at Epitech
